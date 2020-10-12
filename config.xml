@@ -24,7 +24,6 @@
   <preference name="FadeSplashScreen" value="true"/>
   <preference name="FadeSplashScreenDuration" value="250"/>
   <preference name="KeyboardDisplayRequiresUserAction" value="true"/>
-  <preference name="MediaPlaybackRequiresUserAction" value="false"/>
   <preference name="ShowSplashScreenSpinner" value="false"/>
   <preference name="SuppressesIncrementalRendering" value="false"/>
   <preference name="TopActivityIndicator" value="gray"/>
@@ -74,6 +73,8 @@
         <string>en</string>
       </array>
     </config-file>
+    <preference name="scheme" value="monaca-app"/>
+    <preference name="hostname" value="localhost"/>
   </platform>
   <platform name="android">
     <preference name="android-targetSdkVersion" value="29" />
@@ -100,4 +101,5 @@
   </platform>
   <preference name="WindowsStorePublisherName" value="My Name"/>
   <preference name="WindowsStoreIdentityName" value="eaedf3ab-ba8c-d49e-984b-6cdb8f52db26"/>
+  <preference name="MediaTypesRequiringUserActionForPlayback" value="false"/>
 </widget>
