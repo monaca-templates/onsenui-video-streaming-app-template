@@ -1,6 +1,6 @@
 {
     "name": "onsenui-video-streaming-app-template",
-    "version": "2.2.0",
+    "version": "4.4.0",
     "displayName": "OnsenUI Video Streaming Demo",
     "cordova": {
         "plugins": {
