@@ -103,5 +103,5 @@
   </platform>
   <preference name="WindowsStorePublisherName" value="My Name"/>
   <preference name="WindowsStoreIdentityName" value="eaedf3ab-ba8c-d49e-984b-6cdb8f52db26"/>
-  <preference name="MediaTypesRequiringUserActionForPlayback" value="false"/>
+  <preference name="MediaTypesRequiringUserActionForPlayback" value="none"/>
 </widget>
