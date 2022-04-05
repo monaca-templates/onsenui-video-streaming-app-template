@@ -1,6 +1,6 @@
 {
     "name": "onsenui-video-streaming-app-template",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "displayName": "OnsenUI Video Streaming Demo",
     "cordova": {
         "plugins": {
@@ -17,7 +17,7 @@
         "dev": "browser-sync start -s www/ --watch --port 8080 --ui-port 8081"
     },
     "devDependencies": {
-        "browser-sync": "^2.27.7",
+        "browser-sync": "~2.27.7",
         "cordova": "^11.0.0"
     }
 }
