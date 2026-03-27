@@ -1,6 +1,6 @@
 {
   "name": "onsenui-video-streaming-app-template",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "displayName": "OnsenUI Video Streaming Demo",
   "engines": {
     "node": ">=20.17"
